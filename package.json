@@ -15,7 +15,7 @@
     "bin/reddit-wallpaper"
   ],
   "bin": {
-     "reddit-wallpaper": "bin/reddit-wallpaper"
+    "reddit-wallpaper": "bin/reddit-wallpaper"
   },
   "engines": {
     "node": ">=4.0.0"
@@ -37,15 +37,15 @@
   "author": "John Merchant <john@merchant.on.net>",
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^3.1.1",
+    "bluebird": "^3.3.0",
     "expand-tilde": "^1.2.0",
-    "moment": "^2.10.6",
-    "node-notifier": "^4.4.0",
-    "request-promise": "^1.0.2",
+    "moment": "^2.11.2",
+    "node-notifier": "^4.5.0",
+    "request-promise": "^2.0.0",
     "user-home": "^2.0.0",
     "wallpaper": "^2.1.0"
   },
   "devDependencies": {
-    "mocha": "^2.3.4"
+    "mocha": "^2.4.5"
   }
 }
